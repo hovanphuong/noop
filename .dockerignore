@@ -1,0 +1,7 @@
+vendor
+.vscode
+debug
+LICENSE
+README.md
+.editorconfig
+Makefile
